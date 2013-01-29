@@ -1,4 +1,4 @@
-### Welcome to GitHub Pages.
+### Islamic Phrases.
 This automatic page generator is the easiest way to create beautiful pages for all of your projects. Author your page content here using GitHub Flavored Markdown, select a template crafted by a designer, and publish. After your page is generated, you can check out the new branch:
 
 [Islamic phrases](https://addons.instantbird.org/en-US/instantbird/addon/332/ "Link for Add")
@@ -22,5 +22,5 @@ If you prefer to not use the automatic generator, push a branch named `gh-pages`
 ### Authors and Contributors
 You can @mention a GitHub username to generate a link to their profile. The resulting `<a>` element will link to the contributor's GitHub Profile. For example: In 2007, Chris Wanstrath (@defunkt), PJ Hyett (@pjhyett), and Tom Preston-Werner (@mojombo) founded GitHub.
 
-### Support or Contact
+### Support or CONTACT
 Having trouble with Pages? Check out the documentation at http://help.github.com/pages or contact support@github.com and we’ll help you sort it out.
