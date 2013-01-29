@@ -1,0 +1,22 @@
+<!ENTITY smileypanel.label "Smiles">
+<!ENTITY smile.label "Smile :)">
+<!ENTITY grin.label "Grin :D">
+<!ENTITY wink.label "Wink ;)">
+<!ENTITY cry.label "Cry :'(">
+<!ENTITY shocked.label "Shocked :-o">
+<!ENTITY confused.label "Confused :S">
+<!ENTITY slant.label "Slant :-/">
+<!ENTITY slant2.label "Slant :-\">
+<!ENTITY angry.label "Angry x-(">
+<!ENTITY sad.label "Sad :(">
+<!ENTITY cool.label "Cool B-)">
+<!ENTITY tongue.label "Tongue :P">
+<!ENTITY embarrassed.label "Embarrassed :]">
+<!ENTITY heart.label "Heart &lt;3">
+<!ENTITY straight_face.label "Straight face :-|">
+<!ENTITY manga_smile.label "Manga Smile ^^">
+<!ENTITY manga_embarrassed.label "Manga Embarrassed ^^'">
+<!ENTITY manga_tired.label "Manga Tired -_-">
+<!ENTITY manga_annoyed.label "Manga Annoyed --'">
+<!ENTITY manga_stunned.label "Manga Stunned o_o">
+<!ENTITY sp_laugh.label "Laughing with squeezed eyes XD">

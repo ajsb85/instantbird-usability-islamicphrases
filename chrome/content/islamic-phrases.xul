@@ -1,0 +1,61 @@
+﻿<?xml version="1.0"?>
+
+
+<!DOCTYPE window SYSTEM "chrome://islamic-phrases/locale/islamic-phrases.dtd">
+
+
+<overlay id="islamic-phrases"
+ xmlns="http://www.mozilla.org/keymaster/gatekeeper/there.is.only.xul">
+
+		 
+	<script type="application/javascript" src="chrome://islamic-phrases/content/islamic-phrases.js"/>
+	
+	<keyset>
+	
+		<key id="paste-frase" modifiers="accel" key="M" oncommand="document.getElementById('frase').focus();"/>
+		
+	</keyset>  
+ 
+	<statusbar id="convWindow-statusbar">
+
+		<menulist id="frase" key="paste-frase">
+  
+			<menupopup>
+
+				<menuitem label="السلام عليكم" oncommand="pastephrase(this.label);" tooltiptext="La Paz esté con ustedes"/>
+
+				<menuitem label="وعليكم السلام" oncommand="pastephrase(this.label);" tooltiptext="Y con ustedes esté la Paz"/>
+
+				<menuitem label="الْسَّلامِ عَلَيْكُمْ وَرَحْمَةُ الْلَّهِ وَبَرَكَاتُهُ" oncommand="pastephrase(this.label);" tooltiptext="La Paz, la Misericordia y las Bendiciones de Al-Lah esté con ustedes"/>
+
+				<menuitem label="وَعَلَيْكُمْ الْسَّلامِ وَرَحْمَةُ الْلَّهِ وَبَرَكَاتُه" oncommand="pastephrase(this.label);" tooltiptext=""/>
+
+				<menuitem label="إن شاء الله" oncommand="pastephrase(this.label);" tooltiptext="Al-Lah permita"/>
+
+				<menuitem label="ما شاء الله" oncommand="pastephrase(this.label);" tooltiptext="Al-Lah lo ha querido así"/>
+
+				<menuitem label="احبك فى الله" oncommand="pastephrase(this.label);" tooltiptext="Te amo por Al-Lah"/>
+
+				<menuitem label="احبك الذى احببتنى فيه‬" oncommand="pastephrase(this.label);" tooltiptext="Te amo por aquel Él cual me has amado"/>
+
+				<menuitem label="سبحان الله" oncommand="pastephrase(this.label);" tooltiptext="Gloria a Al-Lah"/>
+
+				<menuitem label="الحمد لله" oncommand="pastephrase(this.label);" tooltiptext="Alabado sea Al-Lah"/>
+
+				<menuitem label="لا إله إلا الله" oncommand="pastephrase(this.label);" tooltiptext="No hay otra divinidad excepto Al-Lah"/>
+
+				<menuitem label="الله أَكْبَر" oncommand="pastephrase(this.label);" tooltiptext="Al-Lah es Grande"/>
+
+				<menuitem label="بسم الله‎" oncommand="pastephrase(this.label);" tooltiptext="En el nombre de Al-Lah"/>
+
+				<menuitem label="جزاك اللهُ خيراً" oncommand="pastephrase(this.label);" tooltiptext="Que Al-Lah te recompense"/>
+
+				<menuitem label="اعوذ بالله من الشيطان الرجيم" oncommand="pastephrase(this.label);" tooltiptext="Me refugio en Al-Lah de Satanas el lapidado"/>
+
+			</menupopup>
+
+		</menulist>
+
+	</statusbar>
+
+</overlay>

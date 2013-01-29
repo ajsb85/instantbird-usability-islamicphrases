@@ -1,0 +1,22 @@
+<!ENTITY smileypanel.label "Посмішки">
+<!ENTITY smile.label "Посмішка :)">
+<!ENTITY grin.label "Сміх :D">
+<!ENTITY wink.label "Підморгнути ;)">
+<!ENTITY cry.label "Плакати :'(">
+<!ENTITY shocked.label "Здивування :-o">
+<!ENTITY confused.label "Збитий з толку :S">
+<!ENTITY slant.label "Невдоволення :-/">
+<!ENTITY slant2.label "Невдоволення :-\">
+<!ENTITY angry.label "Злий x-(">
+<!ENTITY sad.label "Сумний :(">
+<!ENTITY cool.label "Круто B-)">
+<!ENTITY tongue.label "Показати язик :P">
+<!ENTITY embarrassed.label "Зніяковілість :]">
+<!ENTITY heart.label "Серце &lt;3">
+<!ENTITY straight_face.label "Нейтральне лице :-|">
+<!ENTITY manga_smile.label "Манга Посмішка ^^">
+<!ENTITY manga_embarrassed.label "Манга Зніяковілість ^^'">
+<!ENTITY manga_tired.label "Манга Змучений -_-">
+<!ENTITY manga_annoyed.label "Манга Роздратований --'">
+<!ENTITY manga_stunned.label "Манга Приголомшений o_o">
+<!ENTITY sp_laugh.label "Сміх с зажмуреними очима XD">
