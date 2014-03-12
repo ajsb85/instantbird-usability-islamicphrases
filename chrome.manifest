@@ -1,7 +1,5 @@
 content islamic-phrases chrome/content/ 
 
 locale islamic-phrases en-US chrome/locale/en-US/
-locale islamic-phrases ru-RU chrome/locale/ru-RU/
-locale islamic-phrases uk-UA chrome/locale/uk-UA/
 
 overlay chrome://instantbird/content/instantbird.xul chrome://islamic-phrases/content/islamic-phrases.xul
