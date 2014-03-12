@@ -15,5 +15,8 @@ Thank you very much for your generosity! -Dhul Qarnayn
 ### Support or CONTACT
 Having trouble with Addon? Check out the documentation at https://addons.instantbird.org/en-US/instantbird/addon/332/#addon-summary or contact a.salas@ieee.org and we’ll help you sort it out.
 
-[![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/alexsalas/islamic-phrases/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
-
+###Donate Bitcoin:
+      
+      1MTd8fa6QrZLSST2uEiuwhLJNjeiGoUe5s
+      
+_Thank you very much for your generosity! -alexandersalas_
