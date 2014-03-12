@@ -1,5 +1,5 @@
 content islamic-phrases chrome/content/ 
-
+skin islamic-phrases     classic/1.0 chrome/skin/
 locale islamic-phrases en-US chrome/locale/en-US/
 
 overlay chrome://instantbird/content/instantbird.xul chrome://islamic-phrases/content/islamic-phrases.xul
